@@ -2,6 +2,8 @@
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
+Live Demo: [Testimonials-Grid-Section](https://aniru-dh21.github.io/Testimonials-Grid-Section/).
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
